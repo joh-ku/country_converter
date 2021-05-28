@@ -67,6 +67,7 @@ Dominica	Commonwealth of Dominica	dominica(?!n)	DM	DMA	212	212	55	110	America	Ca
 Dominican Republic	Dominican Republic	dominican	DO	DOM	214	214	56	111	America	Caribbean	WW	WL	WL	RoW	DOM	LAC	Central America	LAM												1945	1945		RoW						
 DR Congo	Democratic Republic of the Congo	\bdem.*congo|congo.*\bdem|congo.*\bdr|\bdr.*congo|\bd\.?r\.?c|\bd\.?r\.?o\.?c|\br\.?d\.?c|belgian.?congo|congo.?free.?state|kinshasa|zaire|l\w{1,2}opoldville|^the\ congo$|^RDC$|^DROC$|\bcongo.*dem.*	CD	COD	180	180	250	171	Africa	Middle Africa	WW	WF	WF	RoW	COD	AFR	Western Africa	SSA												1960	1960		RoW						
 Ecuador	Republic of Ecuador	ecuador	EC	ECU	218	218	58	122	America	South America	WW	WL	WL	RoW	ECU	LAC	Rest of South America	LAM												1945	1945		RoW						
+England	England	england	GB-ENG						Europe	Northwestern Europe																													
 Egypt	Arab Republic of Egypt	egypt	EG	EGY	818	818	59	141	Africa	Northern Africa	WW	WM	WM	RoW	EGY	MEA	Northern Africa	MEA												1945	1945		RoW						
 El Salvador	Republic of El Salvador	el.?salvador	SV	SLV	222	222	60	127	America	Central America	WW	WL	WL	RoW	SLV	LAC	Central America	LAM												1945	1945		RoW						
 Equatorial Guinea	Republic of Equatorial Guinea	guine.*eq|eq.*guine|^(?=.*span).*guinea	GQ	GNQ	226	226	61	172	Africa	Middle Africa	WW	WF	WF	RoW	GNQ	AFR	Western Africa	SSA												1968	1968		RoW						
@@ -167,6 +168,7 @@ Nigeria	Federal Republic of Nigeria	nigeria	NG	NGA	566	566	159	214	Africa	Wester
 Niue	Niue	niue	NU	NIU	570	570	160	374	Oceania	Polynesia	WW	WA	WA	RoW	NIU		Oceania	OAS															RoW						
 Norfolk Island	Norfolk Island	norfolk.*is	NF	NFK	574	574	161		Oceania	Australia and New Zealand	WW	WA	WA	RoW	NFK			OAS															RoW						
 North Korea	Democratic People's Republic of Korea	^(?=.*dem).*\bkorea|^(?=.*peo).*\bkorea|^(?=.*nor).*\bkorea|\bd\.?p\.?r\.|.*dpr.*|^(?=.*n\.).*\bkorea	KP	PRK	408	408	116	7	Asia	Eastern Asia	WW	WA	WA	RoW	PRK	CPA	Korea region	OAS												1991	1991		RoW						
+Northern Ireland	Northern Ireland	(northern|n).*ireland	GB-NIR						Europe	Northwestern Europe																													
 Northern Mariana Islands	Northern Mariana Islands	mariana	MP	MNP	580	580	163	376	Oceania	Micronesia	WW	WA	WA	RoW	MNP		Oceania	OAS															RoW						
 Norway	Kingdom of Norway	norway	NO	NOR	578	578	162	90	Europe	Northern Europe	NO	NO	NO	RoW	NOR	WEU	Western Europe	NEU	1961								EEA	Schengen		1945	1945		HI						
 Oman	Sultanate of Oman	\boman|trucial	OM	OMN	512	512	221	150	Asia	Western Asia	WW	WM	WM	RoW	OMN	MEA	Middle East	MEA												1971	1971		RoW						
@@ -192,6 +194,7 @@ Samoa	Independent State of Samoa	^(?!.*amer.*)samoa|(\bindep.*samoa)|^west.*samo
 San Marino	Republic of San Marino	san.?marino	SM	SMR	674	674	192	396	Europe	Southern Europe	WW	WE	WE	RoW	SMR		Western Europe	NEU												1992	1992		RoW						
 Sao Tome and Principe	Democratic Republic of São Tomé and Príncipe	tome|tomé	ST	STP	678	678	193	215	Africa	Middle Africa	WW	WF	WF	RoW	STP	AFR	Western Africa	SSA												1975	1975		RoW						
 Saudi Arabia	Kingdom of Saudi Arabia	\bsa\w*.?arabia	SA	SAU	682	682	194	152	Asia	Western Asia	WW	WM	WM	RoW	SAU	MEA	Middle East	MEA												1945	1945		RoW						G20
+Scotland	Scotland	scotland	GB-SCT						Europe	Northwestern Europe																													
 Senegal	Republic of Senegal	senegal	SN	SEN	686	686	195	216	Africa	Western Africa	WW	WF	WF	RoW	SEN	AFR	Western Africa	SSA												1960	1960		RoW						
 Serbia	Republic of Serbia	^(?!.*monte).*serbia.*	RS	SRB	688	688	272	53	Europe	Southern Europe	WW	WE	WE	RoW	SRB		Central Europe	NEU												2000	2000		RoW						
 Seychelles	Republic of Seychelles	seychell	SC	SYC	690	690	196	186	Africa	Eastern Africa	WW	WF	WF	RoW	SYC	AFR	Eastern Africa	SSA												1976	1976		RoW						
@@ -249,6 +252,7 @@ Vanuatu	Republic of Vanuatu	vanuatu|new.?hebrides	VU	VUT	548	548	155	30	Oceania	
 Vatican	Vatican City State	holy.?see|vatican|papal.?st	VA	VAT	336	336	94		Europe	Southern Europe	WW	WE	WE	RoW	VAT		Western Europe	NEU															RoW						
 Venezuela	Bolivarian Republic of Venezuela	venezuela	VE	VEN	862	862	236	133	America	South America	WW	WL	WL	RoW	VEN	LAC	Rest of South America	LAM												1945	1945		RoW						
 Vietnam	Socialist Republic of Vietnam	^((?!n|s|.*republic)|(?=.*socialist)).*viet.?nam(?! *,? *n| *,? *s)	VN	VNM	704	704	237	20	Asia	South-Eastern Asia	WW	WA	WA	RoW	VNM	CPA	Southeastern Asia	OAS												1977	1977		RoW		APEC				
+Wales	Wales	wales	GB-WLS						Europe	Northwestern Europe																													
 Wallis and Futuna Islands	Wallis and Futuna Islands	futuna|wallis	WF	WLF	876	876	243		Oceania	Polynesia	WW	WA	WA	RoW	WLF		Oceania	OAS															RoW						
 Western Sahara	Western Sahara	\bw.*sahara	EH	ESH	732	732	205	199	Africa	Northern Africa	WW	WF	WF	RoW	ESH		Northern Africa	MEA															RoW						
 Yemen	Republic of Yemen	yemen	YE	YEM	887	887	249	157	Asia	Western Asia	WW	WM	WM	RoW	YEM	MEA	Middle East	MEA												1947	1947		RoW						
